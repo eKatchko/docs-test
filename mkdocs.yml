@@ -1,3 +1,7 @@
-site_name: My Docs
+site_name: Testing Docs on GH
 theme:
   name: material
+plugins:
+  - search
+  - minify:
+      minify_html: true
